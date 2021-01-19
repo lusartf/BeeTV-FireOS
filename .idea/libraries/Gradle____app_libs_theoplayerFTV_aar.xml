@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/theoplayerFTV.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a337f4e3672c03746ee735e7cff80d19/jetified-theoplayerFTV/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a337f4e3672c03746ee735e7cff80d19/jetified-theoplayerFTV/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a337f4e3672c03746ee735e7cff80d19/jetified-theoplayerFTV/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a337f4e3672c03746ee735e7cff80d19/jetified-theoplayerFTV/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a337f4e3672c03746ee735e7cff80d19/jetified-theoplayerFTV/jars/libs/com.theoplayer.amazon.exoplayer-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
